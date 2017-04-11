@@ -1,0 +1,22 @@
+{
+  "name": "SHSearchBar",
+  "version": "0.1.0",
+  "summary": "A short description of SHSearchBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Albert Li/SHSearchBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Albert Li": "albert.li@salesforce.com"
+  },
+  "source": {
+    "git": "https://github.com/Albert Li/SHSearchBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHSearchBar/Classes/**/*"
+}
